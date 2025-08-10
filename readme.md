@@ -2,7 +2,7 @@
 
 A web application that leverages a machine learning model to predict the productivity of garment factory workers based on various operational factors.
 
-![Home Page](http://googleusercontent.com/file_content/8](https://raw.githubusercontent.com/codewithHX/Machine-Learning-Approach-for-Employee-Performance-Prediction--SmartInternz-Project/refs/heads/main/Code%20Screenshots/Screenshot%202025-08-10%20145819.png)
+![Home Page](https://raw.githubusercontent.com/codewithHX/Machine-Learning-Approach-for-Employee-Performance-Prediction--SmartInternz-Project/refs/heads/main/Code%20Screenshots/Screenshot%202025-08-10%20145819.png)
 
 ---
 
