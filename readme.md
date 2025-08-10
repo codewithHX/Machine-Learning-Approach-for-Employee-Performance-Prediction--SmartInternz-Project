@@ -2,7 +2,7 @@
 
 A web application that leverages a machine learning model to predict the productivity of garment factory workers based on various operational factors.
 
-![Home Page](http://googleusercontent.com/file_content/8)
+![Home Page](http://googleusercontent.com/file_content/8](https://raw.githubusercontent.com/codewithHX/Machine-Learning-Approach-for-Employee-Performance-Prediction--SmartInternz-Project/refs/heads/main/Code%20Screenshots/Screenshot%202025-08-10%20145819.png)
 
 ---
 
@@ -47,10 +47,13 @@ The main objectives of this project are:
 ### ## 4. Application Screenshots
 
 #### About Page
-![About Page](http://googleusercontent.com/file_content/9)
+![About Page](https://raw.githubusercontent.com/codewithHX/Machine-Learning-Approach-for-Employee-Performance-Prediction--SmartInternz-Project/refs/heads/main/Code%20Screenshots/Screenshot%202025-08-10%20145842.png)
 
 #### Prediction Form
-![Prediction Form](http://googleusercontent.com/file_content/10)
+![Prediction Form](https://raw.githubusercontent.com/codewithHX/Machine-Learning-Approach-for-Employee-Performance-Prediction--SmartInternz-Project/refs/heads/main/Code%20Screenshots/Screenshot%202025-08-10%20145909.png)
+
+#### Result
+![Result](https://raw.githubusercontent.com/codewithHX/Machine-Learning-Approach-for-Employee-Performance-Prediction--SmartInternz-Project/refs/heads/main/Code%20Screenshots/Screenshot%202025-08-10%20150634.png)
 
 ---
 
